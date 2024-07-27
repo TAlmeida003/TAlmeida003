@@ -1,9 +1,12 @@
 <div align="center">
-<img width=60%  src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+<img width=50%  src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 </div>
 <h2 align="center" >Hello, welcome to my profile!!!</h2> 
 
 🌱 Graduating in Computer Engineering at UEFS, always looking to learn and innovate! 
+
+<h2> 📈 Status:</h2>
+
 
 <div align="center">
  
