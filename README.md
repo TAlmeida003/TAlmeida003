@@ -5,6 +5,14 @@
 
 🌱 Graduating in Computer Engineering at UEFS, always looking to learn and innovate! 
 
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagonsa_/)
+<a href = "mailto:cmp.1a.thiagoalmeida003@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
+
+
 <h2> 📈 Status:</h2>
 
 
